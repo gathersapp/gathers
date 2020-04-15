@@ -10,7 +10,7 @@ import Head from 'next/head'
       </Head>
       <div className="div-block"><img src="/Header.png" width="132" alt="" className="image"></img>
         <h1 className="heading">We help chefs focus on their craft.</h1>
-        <p className="paragraph">In these strange times of solitary dining we are working with our network of chefs to take their craft digital and help spread the love of a meal.  Joing our mailing list to stay up to date and attend our upcoming event next week.</p>
+        <p className="paragraph">In these strange times of solitary dining we are working with our network of chefs to take their craft digital and help spread the love of a meal. Joing our mailing list to stay up to date and attend our upcoming event next week.</p>
         <div className="form-block w-form">
           <form id="wf-form-Email-Form" name="wf-form-Email-Form" data-name="Email Form" action="https://app.us19.list-manage.com/subscribe/post?u=41be7e7ae6c2606795957f497&amp;id=55f96fcb64" method="post" className="form"><input type="email" className="text-field w-input" autoFocus="true" maxLength="256" name="email" data-name="Email" placeholder="Email" id="email" required=""></input><input type="submit" value="Subscribe" data-wait="Please wait..." className="submit-button w-button"></input></form>
           <div className="success-message w-form-done">
