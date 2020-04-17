@@ -13,15 +13,7 @@ import Head from 'next/head'
      <br /><br /><br />
       <script src="https://gumroad.com/js/gumroad-embed.js"></script>
 <div class="gumroad-product-embed" data-gumroad-product-id="FGoBu"><a href="https://gumroad.com/l/FGoBu">Loading...</a></div>
-        <div className="form-block w-form">
-          <form id="wf-form-Email-Form" name="wf-form-Email-Form" data-name="Email Form" action="https://app.us19.list-manage.com/subscribe/post?u=41be7e7ae6c2606795957f497&amp;id=55f96fcb64" method="post" className="form"><input type="email" className="text-field w-input" autoFocus="true" maxLength="256" name="email" data-name="Email" placeholder="Email" id="email" required=""></input><input type="submit" value="Subscribe" data-wait="Please wait..." className="submit-button w-button"></input></form>
-          <div className="success-message w-form-done">
-            <div className="text-block">Thank you! Your submission has been received!</div>
-          </div>
-          <div className="w-form-fail">
-            <div className="text-block-2">Oops! Something went wrong while submitting the form.</div>
-          </div>
-        </div>
+        
       </div>
     
   
